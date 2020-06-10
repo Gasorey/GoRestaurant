@@ -1,6 +1,6 @@
 
 # GoRestaurant
-React JS challenge
+![restaurant](GoRestaurant.gif)
 
 <h2>Objetivo</h2>
 <p>Conseguir criar pratos para um cardápio, exibir o prato, conferir disponibilidade, preço e descrição</p>
